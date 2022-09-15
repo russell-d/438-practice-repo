@@ -11,7 +11,8 @@ public class ApplicationMain {
 				"Cereal", 
 				"Bread", 
 				"Eggs",
-				"Milk"
+				"Milk",
+				"Modern Warfare 2"
 		};
 		
 		System.out.println("My Shopping List");
